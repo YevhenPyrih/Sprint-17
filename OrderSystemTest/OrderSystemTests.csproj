@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\sprint-17-c-sharp-practical-classroom-sprint-17-unit-testing-OrderSystem-1-master\OrderSystem.csproj" />
+    <ProjectReference Include="..\OrderSystem.csproj" />
   </ItemGroup>
 
   <ItemGroup>
